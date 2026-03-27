@@ -78,7 +78,7 @@ The findings provide practical insights into trade-offs between annotation relia
 > **Note:** Folder **03_Datasets** (except for a small dummy.jsonl file) remain empty because their contents cannot be distributed publicly for licensing reasons.
 <hr>
 
-## Source 
+## Related Work 
 
 - BERT-CLF: Fehle, J., Münster, L., Schmidt, T., & Wolff, C. (2023). *Aspect-based sentiment analysis as a multi-label classification task on the domain of German hotel reviews.* KONVENS 2023. [PDF](https://aclanthology.org/2023.konvens-main.21.pdf)  
 
