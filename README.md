@@ -12,7 +12,7 @@ Accepted at the Workshop **RESOURCEFUL-2026** (Co-located with LREC 2026) · Pal
 
 ---
 
-**Niklas Donhauser¹* · Jakob Fehle¹ · Nils Constantin Hellwig¹* · Markus Weinberger¹* ·  Udo Kruschwitz² · Christian Wolff¹**
+**Niklas Donhauser¹* · Jakob Fehle¹ · Nils Constantin Hellwig¹ · Markus Weinberger¹ ·  Udo Kruschwitz² · Christian Wolff¹*
 
 ¹Media Informatics Group, University of Regensburg, Germany  
 ²Information Science Group, University of Regensburg, Germany
