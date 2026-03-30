@@ -60,6 +60,16 @@ The findings provide practical insights into trade-offs between annotation relia
 
 <hr>
 
+## Annotation Guidelines
+
+
+The annotation guidelines can be found in [`03_annotations/Guidelines`](03_annotations/Guidelines).
+
+📄 See the PDF for detailed instructions, and 🎥 check the accompanying video on YouTube for a walkthrough.
+[![Watch the video](https://img.youtube.com/vi/Hx70wmjktHY/1.jpg)](https://www.youtube.com/watch?v=Hx70wmjktHY)
+
+<hr>
+
 ## Repository Structure  
 
 - **01_Code**  
