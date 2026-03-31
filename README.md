@@ -70,6 +70,14 @@ The annotation guidelines can be found in [`03_annotations/Guidelines`](03_annot
 
 <hr>
 
+## Dataset
+
+
+The datasets created in this project are **not publicly available** due to licensing restrictions.  
+
+However, they can be shared with researchers for academic purposes upon request. If you would like access, please contact **Niklas Donhauser** at **niklas.donhauser@ur.de**.
+<hr>
+
 ## Repository Structure  
 
 - **01_Code**  
