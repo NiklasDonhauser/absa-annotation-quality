@@ -120,5 +120,18 @@ However, they can be shared with researchers for academic purposes upon request.
  
 ## Citation  
 
-If you use our work, please cite our paper and link this repository:  
-*Citation available after 2026-05-11*
+If you use our work, please cite our paper and link this repository: 
+```
+@inproceedings{donhauser-etal-2026-annotation,
+  title = {Annotation Quality in Aspect-Based Sentiment Analysis: A Case Study Comparing Experts, Students, Crowdworkers, and Large Language Models },
+  author = {Donhauser, Niklas and Fehle, Jakob and Hellwig, Nils Constantin and Weinberger, Markus and Kruschwitz, Udo and Wolff, Christian},
+  booktitle = {The Fourth Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL 2026)},
+  month = {May},
+  year = {2026},
+  pages = {73--88},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  doi = {10.63317/39nwcnfj8ypb},
+  abstract = {Aspect-Based Sentiment Analysis (ABSA) enables fine-grained opinion analysis by identifying sentiments toward specific aspects or targets within a text. While ABSA has been widely studied for English, research on other languages such as German remains limited, largely due to the lack of high-quality annotated datasets. This paper examines how different annotation sources influence the development of German ABSA. To this end, an existing dataset is re-annotated by experts to establish a ground truth, which serves as a reference for evaluating annotations produced by students, crowdworkers, Large Language Models (LLMs), and experts. Annotation quality is compared using Inter-Annotator Agreement (IAA) and its impact on downstream model performance for different ABSA subtasks. The evaluation focuses on Aspect Category Sentiment Analysis (ACSA) and Target Aspect Sentiment Detection (TASD). We apply State-of-the-Art (SOTA) methods for ABSA, including BERT-, T5-, and LLaMA-based approaches to assess performance differences, spanning fine-tuning and in-context learning with instruction prompts. The findings provide practical insights into trade-offs between annotation reliability, and efficiency, offering guidance for dataset construction in under-resourced Natural Language Processing (NLP) scenarios.}
+}
+```
